@@ -10,4 +10,8 @@
 
 @interface Gameplay : CCNode
 
+- (void)didLoadFromCCB; 
+- (void)touchBegan;
+- (void)launchPenguin;
+
 @end
