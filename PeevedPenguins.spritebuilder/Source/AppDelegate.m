@@ -63,14 +63,16 @@
 }
 
 
-- (id)init {
-    self = [super init];
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+    [...]
     
-    if (self) {
-        CCLOG(@"Seal created");
-    }
+    [self setupCocos2dWithOptions:cocos2dSetup];
     
-    return self;
+    [CCBReader load:@"Penguin"];
+    [CCBReader load:@"Seal"];
+    
+    return YES;
 }
 
 @end
