@@ -222,8 +222,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>307.56134033203125</real>
-							<real>88.249076843261719</real>
+							<real>253.186767578125</real>
+							<real>73.609771728515625</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -236,8 +236,8 @@
 						<string>Point</string>
 						<key>value</key>
 						<array>
-							<real>0.5</real>
-							<real>0.5</real>
+							<real>0.52500158548355103</real>
+							<real>0.31805625557899475</real>
 						</array>
 					</dict>
 					<dict>
@@ -400,8 +400,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>293.24905395507812</real>
-							<real>206.56134033203125</real>
+							<real>232.82318115234375</real>
+							<real>208.058837890625</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -680,9 +680,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>5.6755752563476562</real>
+			<real>0.0</real>
 			<key>position</key>
-			<real>7.1333332061767578</real>
+			<real>0.0</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
