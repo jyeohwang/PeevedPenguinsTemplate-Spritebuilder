@@ -376,7 +376,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string>Gameplay</string>
+				<string></string>
 				<key>displayName</key>
 				<string>catapultarm</string>
 				<key>memberVarAssignmentName</key>
@@ -471,7 +471,7 @@
 				<key>displayName</key>
 				<string>CCPhysicsNode</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>_physicsNode</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -680,9 +680,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>1.0234375</real>
+			<real>5.6755752563476562</real>
 			<key>position</key>
-			<real>0.3333333432674408</real>
+			<real>7.1333332061767578</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
