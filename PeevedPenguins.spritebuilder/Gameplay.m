@@ -35,8 +35,6 @@
     //deactivate collisions for invisible mouse joint node
     _mouseJointNode.physicsBody.collisionMask = @[];
     
-    
-    
 }
 
 // called on every touch in this scene
