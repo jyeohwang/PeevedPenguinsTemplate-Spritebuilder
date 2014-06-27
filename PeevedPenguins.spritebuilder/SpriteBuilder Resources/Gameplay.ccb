@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>225</real>
-						<real>108.00001525878906</real>
+						<real>230.55403137207031</real>
+						<real>116.02646636962891</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -93,8 +93,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>13.17681884765625</real>
-						<real>-11.558822631835938</real>
+						<real>7.880000114440918</real>
+						<real>5.5100002288818359</real>
 					</array>
 				</dict>
 				<dict>
@@ -202,7 +202,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>7.9580786405131221e-13</real>
+						<real>5.6843418860808015e-13</real>
 						<real>14</real>
 					</array>
 				</dict>
@@ -267,8 +267,6 @@
 					<real>500</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -808,16 +806,24 @@
 											<real>177</real>
 										</array>
 										<array>
-											<real>42</real>
-											<real>0.0</real>
+											<real>39.411937713623047</real>
+											<real>109.67183685302734</real>
+										</array>
+										<array>
+											<real>18.09172248840332</real>
+											<real>6.9349679946899414</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>42</real>
-												<real>0.0</real>
+												<real>18.09172248840332</real>
+												<real>6.9349679946899414</real>
+											</array>
+											<array>
+												<real>39.411937713623047</real>
+												<real>109.67183685302734</real>
 											</array>
 											<array>
 												<real>42</real>
@@ -851,8 +857,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>232.82318115234375</real>
-											<real>208.058837890625</real>
+											<real>243.67402648925781</real>
+											<real>199.01646423339844</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -919,8 +925,6 @@
 								<string></string>
 								<key>displayName</key>
 								<string>pullbackNode</string>
-								<key>hidden</key>
-								<true/>
 								<key>memberVarAssignmentName</key>
 								<string>_pullbackNode</string>
 								<key>memberVarAssignmentType</key>
@@ -1064,40 +1068,56 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>0.0</real>
-											<real>0.0</real>
+											<real>20.654609680175781</real>
+											<real>2.9216115474700928</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>92</real>
+											<real>9.5635766983032227</real>
+											<real>40.843051910400391</real>
 										</array>
 										<array>
-											<real>215</real>
-											<real>92</real>
+											<real>74.160011291503906</real>
+											<real>78.5313720703125</real>
 										</array>
 										<array>
-											<real>215</real>
-											<real>0.0</real>
+											<real>142.60655212402344</real>
+											<real>61.456832885742188</real>
+										</array>
+										<array>
+											<real>213.58209228515625</real>
+											<real>31.72297477722168</real>
+										</array>
+										<array>
+											<real>212.16215515136719</real>
+											<real>1.8195726871490479</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>215</real>
-												<real>0.0</real>
+												<real>212.16215515136719</real>
+												<real>1.8195726871490479</real>
 											</array>
 											<array>
-												<real>215</real>
-												<real>92</real>
+												<real>213.58209228515625</real>
+												<real>31.72297477722168</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>92</real>
+												<real>142.60655212402344</real>
+												<real>61.456832885742188</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>0.0</real>
+												<real>74.160011291503906</real>
+												<real>78.5313720703125</real>
+											</array>
+											<array>
+												<real>9.5635766983032227</real>
+												<real>40.843051910400391</real>
+											</array>
+											<array>
+												<real>20.654609680175781</real>
+												<real>2.9216115474700928</real>
 											</array>
 										</array>
 									</array>
