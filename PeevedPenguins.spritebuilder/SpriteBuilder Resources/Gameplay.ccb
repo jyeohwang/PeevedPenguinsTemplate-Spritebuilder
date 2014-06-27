@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>20</integer>
+	<integer>21</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -142,7 +142,7 @@
 		</dict>
 		<dict>
 			<key>UUID</key>
-			<integer>18</integer>
+			<integer>20</integer>
 			<key>baseClass</key>
 			<string>CCPhysicsSpringJoint</string>
 			<key>children</key>
@@ -202,7 +202,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>0.0</real>
+						<real>7.9580786405131221e-13</real>
 						<real>14</real>
 					</array>
 				</dict>
@@ -267,6 +267,8 @@
 					<real>500</real>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -1019,8 +1021,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
