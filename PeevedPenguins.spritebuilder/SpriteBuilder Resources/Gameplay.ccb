@@ -202,7 +202,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>1.1368683772161603e-12</real>
+						<real>1.3073986337985843e-12</real>
 						<real>14</real>
 					</array>
 				</dict>
@@ -1873,8 +1873,6 @@
 						<string>WaitingPenguin.ccb</string>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -2062,9 +2060,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>0.11250686645507812</real>
+			<real>0.59375</real>
 			<key>position</key>
-			<real>0.0</real>
+			<real>10</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
