@@ -10,4 +10,6 @@
 
 @interface WaitingPenguin : CCSprite
 
+- (void)didLoadFromCCB;
+
 @end

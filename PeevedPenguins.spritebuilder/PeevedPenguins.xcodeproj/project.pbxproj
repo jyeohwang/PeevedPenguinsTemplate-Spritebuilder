@@ -145,9 +145,9 @@
 				B737893E1807617C0076A88C /* AppDelegate.m */,
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
-				912EADB5195B424D00D0AE0B /* Gameplay.h */,
 				91B31FB9195DD1FD009B1E94 /* WaitingPenguin.h */,
 				91B31FBA195DD1FD009B1E94 /* WaitingPenguin.m */,
+				912EADB5195B424D00D0AE0B /* Gameplay.h */,
 				912EADB6195B424D00D0AE0B /* Gameplay.m */,
 			);
 			name = Source;
