@@ -30,7 +30,7 @@
     _physicsNode.debugDraw = TRUE;
     
     // nothing shall collide with our invisible nodes
-    //_pullbackNode.physicsBody.collisionMask = @[];
+    _pullbackNode.physicsBody.collisionMask = @[];
     
     //deactivate collisions for invisible mouse joint node
     _mouseJointNode.physicsBody.collisionMask = @[];
