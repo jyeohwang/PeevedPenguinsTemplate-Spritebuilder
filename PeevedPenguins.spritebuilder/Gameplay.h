@@ -8,10 +8,11 @@
 
 #import "CCNode.h"
 
-@interface Gameplay : CCNode
+@interface Gameplay : CCNode <CCPhysicsCollisionDelegate>
 
 - (void)didLoadFromCCB; 
 - (void)touchBegan:(UITouch *)touch withEvent:(UIEvent *)event ;
 - (void)launchPenguin;
 
 @end
+
