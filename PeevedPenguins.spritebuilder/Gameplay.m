@@ -63,7 +63,7 @@ static const float MIN_SPEED = 5.f;
     
     // visualize physics bodies & joints
     //set to false to hide the debugDraw
-    _physicsNode.debugDraw = FALSE;
+    _physicsNode.debugDraw = TRUE;
     
     // nothing shall collide with our invisible nodes
     _pullbackNode.physicsBody.collisionMask = @[];
